@@ -1,0 +1,29 @@
+<div class="services-content">
+      <div class="box">
+        <div class="s-icons">
+          <i class='bx bx-paint' ></i>
+        </div>
+        <h3>Digital Operations</h3>
+        <p>Tingkatkan kinerja perusahaan melalui layanan Digital Solution untuk Produktivitas Bisnis yang berkelanjutan.</p>
+        <a href="#" class="read">read more</a>
+      </div>
+
+      <div class="box">
+        <div class="s-icons">
+          <i class='bx bx-laptop' ></i>
+        </div>
+        <h3>Digital Media Tools</h3>
+        <p>Optimalkan peran Desain Visual dalam kegiatan pemasaran di bisnis Anda melalui layanan Digital Media Tools.</p>
+        <a href="#" class="read"></a>
+      </div>
+
+      <div class="box">
+        <div class="s-icons">
+          <i class='bx bx-desktop'></i>
+        </div>
+        <h3>Digital Marketing</h3>
+        <p>Maksimalkan peran dan strategi Digital Marketing untuk semua kegiatan pemasaran dalam bisnis Anda.</p>
+        <a href="#" class="read"></a>
+      </div>
+    </div>
+  </section>
